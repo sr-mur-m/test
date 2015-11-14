@@ -1,1 +1,7 @@
-This is a test of repository, working with the shell.
+Date: 14-Nov-2015 (v1).
+
+- This is a test of repository with the shell.
+
+- To run the program put this two commands:
+chmod 0500 time-login.sh
+./time-login.sh
